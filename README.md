@@ -1,0 +1,1 @@
+# fatti-receipt-ocr-app
